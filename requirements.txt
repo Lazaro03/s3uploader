@@ -12,7 +12,7 @@ telethon
 tenacity
 pyrogram
 tgcrypto
-aiohttp
+
 yarl
 pyrogram
 Pysocks
